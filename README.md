@@ -1,4 +1,4 @@
-# 🛍️ Sales Data Analysis & Reporting Pipeline using PySpark
+# 🛍️ Sales Data Analysis using PySpark
 
 ### 📁 Dataset Summary
 
